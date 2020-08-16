@@ -1,0 +1,77 @@
+1. Mencari bilangan terbesar dan terkecil dari 2 input yang dimasukkan.
+Input: 10, 15
+Output: 
+Bilangan terkecil = 10
+Bilangan terbesar =  15
+
+2. Tampilkan seluruh bilangan genap dan ganjil sebanyak n input yang dimasukkan.
+Input: 10
+Output: 
+Genap : 2, 4, 6, 8, 10, 12, 14, 16, 18, 20
+Ganjil : 1, 3, 5, 7, 9, 11, 13, 15, 17, 19
+
+3. Mencari beda hari dalam tanggal yang dimasukkan.
+Input: 12-08-2014, 17-08-2014
+Output: beda hari adalah 5 hari.
+
+4. Dengan input = 4, tampilkan output sebagai berikut:
+      *
+    *  *
+  *  *  *
+*  *  *  *
+Output bergantung pada input yang dimasukkan. Jumlah baris = jumlah input
+
+5. Dengan input = 4, tampilkan output sebagai berikut:
+      *
+    *  *
+  *  *  *
+*  *  *  *
+  *  *  *
+    *  *
+      *
+
+6. Menampilkan bilangan prima dengan batas atas n input.
+Jika n = 100, maka tampilkan seluruh bilangan prima mulai dari 0 – 100.
+Contoh bil prima: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, ...
+
+7. Menampilkan bilangan fibonacci sebanyak n input.
+Jika n = 13, maka tampilkan bilangan fibonacci sebanyak 13 angka.
+Contoh: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144
+
+8. Menentukan apakah suatu kata merupakan palindrom atau bukan.
+Contoh kata palindrom: katak, kakak, malam
+
+9. Program “Terbilang” dari suatu nilai uang.
+Input : 15500
+Output:
+Terbilang = Lima belas ribu lima ratus rupiah
+
+10. Program hitung pecahan (Satuan terkecil 100. Kelipatan sesuai dengan mata uang Rp)
+Input : 36600
+Output : 
+20000 sebanyak 1
+10000 sebanyak 1
+5000 sebanyak 1
+1000 sebanyak 1
+500 sebanyak 1
+100 sebanyak 1
+	
+11. Rumus dari sebuah kombinasi adalah : n!/r!(n-r)! 
+Sehingga kombinasi 2 dari 5 adalah =  5!/2!(5-2)! = 10
+Dengan petunjuk : 
+3! = 3 x 2 x 1 = 6
+0!= 1
+Buatlah program bantu untuk menghitung hasil kombinasi.
+
+12. Buatlah sebuah array yang berisi 5 object Matakuliah. Kemudian tampilkan isi seluruh atribut dari matakuliah tersebut. (min atribut = 5)
+
+13. Buatlah sebuah list yang berisi 5 object Dosen. Kemudian tampilkan isi seluruh atribut dari dosen tersebut. (min atribut = 5)
+
+14. Buat sebuah method Java untuk mencari bilangan terbesar dan bilangan terkecil dari sebuah List<Integer> yang dikirimkan
+
+15. Seperti kita tahu Persegi adalah object penyusun Kubus. Buatlah class yang menghubungkan antar object tersebut dan program sehingga kita bisa menghitung :
+a.	Luas Persegi
+b.	Luas Kubus
+c.	Volume Kubus
+Petunjuk : gunakan konsep IS-A
+
