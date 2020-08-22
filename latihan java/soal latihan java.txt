@@ -1,3 +1,4 @@
+Soal Java Dasar
 1. Mencari bilangan terbesar dan terkecil dari 2 input yang dimasukkan.
 Input: 10, 15
 Output: 
