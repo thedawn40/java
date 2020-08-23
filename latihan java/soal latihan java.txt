@@ -75,4 +75,3 @@ a.	Luas Persegi
 b.	Luas Kubus
 c.	Volume Kubus
 Petunjuk : gunakan konsep IS-A
-
